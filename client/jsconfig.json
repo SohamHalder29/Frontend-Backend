@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "target": "ESNext",
+        "strict": true,
+        "strictNullChecks": true,
+        "jsx": "react",
+    },
+    "exclude": ["node_modules",],
+}
